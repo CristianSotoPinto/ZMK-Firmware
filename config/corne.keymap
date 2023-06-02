@@ -47,8 +47,8 @@
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
  &kp  TAB  &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT        &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR &kp RPAR &kp BSPC
- &kp LWIN(UP) &kp C_PREVIOUS &kp C_NEXT &kp C_PLAY &kp LWIN(LEFT) &kp LWIN(RIGHT)      &kp MINUS &kp EQUAL &kp LBKT        &kp RBKT &kp BSLH &kp GRAVE
- &kp LWIN(DOWN) &kp C_VOLUME_DOWN &kp C_VOLUME_UP &kp C_MUTE &kp LWIN(LC(LEFT)) &kp LWIN(LC(RIGHT))      &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
+ &kp LG(UP) &kp C_PREVIOUS &kp C_NEXT &kp C_PLAY &kp LG(LEFT) &kp LG(RIGHT)      &kp MINUS &kp EQUAL &kp LBKT        &kp RBKT &kp BSLH &kp GRAVE
+ &kp LG(DOWN) &kp C_VOLUME_DOWN &kp C_VOLUME_UP &kp C_MUTE &kp LG(LC(LEFT)) &kp LG(LC(RIGHT))      &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
                       &kp LGUI &trans   &kp RET   &kp SPACE   &trans    &kp DEL
                         >;
                 };

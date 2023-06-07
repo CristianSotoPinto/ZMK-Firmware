@@ -47,7 +47,7 @@
       timeout-ms = <50>;
       key-positions = <26 27>;
       layers = <0>;
-      bindings = <&kp PG_DOWN>;
+      bindings = <&kp PG_DN>;
     };
     combo_COMBO_HOME {
       timeout-ms = <50>;

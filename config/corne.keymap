@@ -32,7 +32,7 @@
     };
     combo_COMBO_RIGHT {
       timeout-ms = <50>;
-      key-positions = <21 22>;
+      key-positions = <20 21>;
       layers = <0>;
       bindings = <&kp RIGHT>;
     };
@@ -51,7 +51,7 @@
     };
     combo_COMBO_HOME {
       timeout-ms = <50>;
-      key-positions = <13 14>;
+      key-positions = <14 15>;
       layers = <0>;
       bindings = <&kp HOME>;
     };
